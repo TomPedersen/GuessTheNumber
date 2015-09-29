@@ -1,0 +1,6 @@
+c:\users\tom\Documents\GitHub\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+c:\users\tom\Documents\GitHub\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe
+c:\users\tom\Documents\GitHub\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.pdb
+c:\users\tom\Documents\GitHub\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csprojResolveAssemblyReference.cache
+c:\users\tom\Documents\GitHub\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.exe
+c:\users\tom\Documents\GitHub\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.pdb
